@@ -1,6 +1,6 @@
 package FunIntPkg;
 
-@FunctionalInterface
+
 interface FIMethodDefault{
 	void method1();
 	
